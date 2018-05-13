@@ -11,4 +11,6 @@
 
 - finished work session: HTML Structure
 
+- finished work session: CSS
+
 (this readme.md will be updated everytime something get updated or added)
