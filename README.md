@@ -13,4 +13,8 @@
 
 - finished work session: CSS
 
+- finished work session: What is Javascript?
+
+- finished work session: Date Types and Variables
+
 (this readme.md will be updated everytime something get updated or added)
