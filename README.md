@@ -17,4 +17,7 @@
 
 - finished work session: Date Types and Variables
 
+- finished work session: Conditionals
+
+
 (this readme.md will be updated everytime something get updated or added)
