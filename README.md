@@ -20,5 +20,6 @@
 - finished work session: Conditionals
 
 - finishd work session: Loops
+- finishd work session: Loops
 
 (this readme.md will be updated everytime something get updated or added)
