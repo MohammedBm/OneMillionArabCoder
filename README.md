@@ -23,4 +23,6 @@
 
 - finishd work session: Functions
 
+- finishd work session: Arrays
+
 (this readme.md will be updated everytime something get updated or added)
