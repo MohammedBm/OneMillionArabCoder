@@ -25,4 +25,6 @@
 
 - finishd work session: Arrays
 
+- finishd work session: Objects
+
 (this readme.md will be updated everytime something get updated or added)
